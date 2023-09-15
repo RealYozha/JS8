@@ -9,4 +9,4 @@ let Age = MyBirthday.diff(Now, 'years');
 
 console.log(`Ты родился ${MyBirthday}`);
 console.log(`Тебе ${Math.abs(Age)} лет`);
-console.log(`Через ${Math.abs(Result)} дней тебе будет ${NextBirthdayA
+console.log(`Через ${Math.abs(Result)} дней тебе будет ${NextBirthdayAge}`);
